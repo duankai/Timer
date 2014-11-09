@@ -25,7 +25,6 @@ void main()
 	}
 	
 	delete pcTimer;
-	}
+}
 	
-	
-	which print is function.
+which print is function.
