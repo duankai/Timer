@@ -6,8 +6,8 @@ Timer in Windows
 
 You can use like this:
 
-void main()
-{
+    void main()
+    {
 	Timer * pcTimer = new Timer();
 	if (!pcTimer)
 	{
@@ -25,6 +25,6 @@ void main()
 	}
 	
 	delete pcTimer;
-}
+   }
 	
 which print is function.
