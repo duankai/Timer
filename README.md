@@ -1,5 +1,5 @@
 Timer
-=====
+================
 
 Timer in Windows
 
